@@ -1,6 +1,20 @@
 # RollingElementBearingFaultDiagnosis-Data
-Data set for Rolling Element Bearing Fault Diagnosis example in Predictive Maintenance Toolbox
-- Download the entire repository as a zip file and save it in the same directory as the example live script. Then run the live script.
+Dataset for Rolling Element Bearing Fault Diagnosis example in Predictive Maintenance Toolbox.
 
- - Alternatively, if you have git installed, in command line go to the folder where the example live script and type
-`git clone https://github.com/mathworks/RollingElementBearingFaultDiagnosis-Data.git`. When executing the example live script, skip the data downloading step and start with the datastore creating step.
+The data is sourced from http://data-acoustics.com/measurements/bearing-faults/bearing-2/.
+
+The data is provided under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). Mathworks Inc. has obtained permission from the data owner [Eric Bechhoefer](mailto:eric@gpms-vt.com) to use the data for commercial purpose. Please contact the owner [Eric Bechhoefer](mailto:eric@gpms-vt.com) for any other commercial uses.
+
+## Instruction
+Download the entire repository as a zip file and save it in the same directory as the example live script. Then run the live script.
+
+## Modification of the original data
+The orginal data set contains 6 folders:
+- 1 - Three Baseline Conditions
+- 2 - Three Outer Race Fault Conditions
+- 3 - Seven More Outer Race Fault Conditions
+- 4 - Seven Inner Race Fault Conditions
+- 5 - Analyses
+- 6 - Real World Examples
+
+This repository only contains data of the first 4 folder. The data is reorgonized and splitted into ```train_folder``` and ```test_folder```.
