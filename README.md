@@ -17,4 +17,4 @@ The orginal data set contains 6 folders:
 - 5 - Analyses
 - 6 - Real World Examples
 
-This repository only contains data of the first 4 folder. The data is reorgonized and splitted into ```train_folder``` and ```test_folder```.
+This repository only contains data of the first 4 folders. The data is re-organized and splitted into ```train_folder``` and ```test_folder```.
