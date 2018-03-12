@@ -9,7 +9,7 @@ The data is provided under a [Creative Commons Attribution-NonCommercial-ShareAl
 Click **'Clone or download'** button of the repository and select **'Download Zip'**. Save the zip file in the same directory as the example live script. Then run the live script.
 
 ## Modification of the original data
-The orginal data set contains 6 folders:
+The orginal dataset contains 6 folders:
 - 1 - Three Baseline Conditions
 - 2 - Three Outer Race Fault Conditions
 - 3 - Seven More Outer Race Fault Conditions
@@ -17,4 +17,4 @@ The orginal data set contains 6 folders:
 - 5 - Analyses
 - 6 - Real World Examples
 
-This repository only contains data of the first 4 folders. The data is re-organized and splitted into ```train_folder``` and ```test_folder```.
+This repository only contains data of the first 4 folders. The data is re-organized and split into ```train_folder``` and ```test_folder```. For the full dataset, see http://data-acoustics.com/measurements/bearing-faults/bearing-2/.
