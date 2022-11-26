@@ -1,7 +1,7 @@
 # RollingElementBearingFaultDiagnosis-Data
 Dataset for Rolling Element Bearing Fault Diagnosis example in Predictive Maintenance Toolbox.
 
-The data is sourced from http://data-acoustics.com/measurements/bearing-faults/bearing-2/.
+The data is sourced from https://www.mfpt.org/fault-data-sets/
 
 The data is provided under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). Mathworks Inc. has obtained permission from the data owner [Eric Bechhoefer](mailto:eric@gpms-vt.com) to use the data for commercial purpose. Please contact the owner [Eric Bechhoefer](mailto:eric@gpms-vt.com) for any other commercial uses.
 
